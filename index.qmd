@@ -2,4 +2,4 @@
 title: "Laundry Research"
 ---
 
-This homepage contains information and results from the research conducted by Erik Klint. For the proper cited references, please see [published_articles.qmd)
+This homepage contains information and results from the research conducted by Erik Klint. For the proper cited references, please see [Published aritcles](published_articles.qmd)
