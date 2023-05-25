@@ -4,10 +4,10 @@ bibliography: Bibliography_homepage.bib
 
 ---
 
+# What shapes consumer behaviour? 
 
+As described by @RN1 current research indicate that laundering behaviours are predominantly shaped by three different factors: Social conventions (i.e. culture), individual concerns (e.g. psychological drivers and barriers), and the availability of technological aids (e.g. washing machines or tumble dryers).  
 
-
-# What motivates consumer behaviour? 
 
 
 ## Feelings 

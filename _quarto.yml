@@ -6,12 +6,11 @@ website:
   title: "Laundry Research"
   navbar:
     left:
-      - href: index.qmd
+      - href: about.qmd
         text: Home
-      - about.qmd
-      - published_articles.qmd
       - Consumer_motivations.qmd
       - Environmental_impacts.qmd
+      - published_articles.qmd
 
 format:
   html:
