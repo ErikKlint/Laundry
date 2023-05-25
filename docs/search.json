@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Laundry Research",
     "section": "",
-    "text": "This homepage contains information and results from the research conducted by Erik Klint. For the proper cited references, please see [published_articles.qmd)"
+    "text": "This homepage contains information and results from the research conducted by Erik Klint. For the proper cited references, please see Published aritcles"
   },
   {
     "objectID": "about.html",
@@ -16,8 +16,8 @@
   {
     "objectID": "published_articles.html",
     "href": "published_articles.html",
-    "title": "Published articles",
+    "title": "Published articles and additional information",
     "section": "",
-    "text": "This list contains links to all the research and articles published within the current Laundry project. Additional informations about the publications can be found here: Chalmers Research"
+    "text": "This list contains links to all the research and articles published within the current Laundry project. Additional information about the publications can be found here: Chalmers Research\nKlint, E., Peters, G. Sharing is caring - the importance of capital goods when assessing environmental impacts from private and shared laundry systems in Sweden. Int J Life Cycle Assess 26, 1085-1099 (2021). https://doi.org/10.1007/s11367-021-01890-5"
   }
 ]

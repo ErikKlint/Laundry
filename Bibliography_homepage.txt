@@ -1,0 +1,329 @@
+﻿@techreport{RN25,
+   author = {Arild, A.-H.; Brusdal, R.; Halvorsen-Gunnarsen, J.T.; van Kessel, I.A.C.; Terpstra, P. M. J.;},
+   title = {An Investigation of domestic Laundry in Europe – Habits, Hygiene and Functional Performance},
+   year = {2003},
+   type = {Report}
+}
+
+@article{RN10,
+   author = {Bartiaux, Françoise},
+   title = {Does environmental information overcome practice compartmentalisation and change consumers' behaviours?},
+   journal = {Journal of Cleaner Production},
+   volume = {16},
+   number = {11},
+   pages = {1170-1180},
+   ISSN = {09596526},
+   DOI = {10.1016/j.jclepro.2007.08.013},
+   url = {http://www.sciencedirect.com/science/article/pii/S0959652607001849
+https://pdf.sciencedirectassets.com/271750/1-s2.0-S0959652608X00058/1-s2.0-S0959652607001849/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAAaCXVzLWVhc3QtMSJIMEYCIQDEhBbrVEm37rdZ46mjTjiA2gFKZb8SnWronQgjhdDXMwIhAMKzwAJCMqy0yc2lEhC67T3QvzNuMfGheRTrXapfM86FKs8CCCkQAhoMMDU5MDAzNTQ2ODY1Igzx3kHArxltsHggR30qrAJkbLnidDsMw45myh6hAJfQJ5S0UPGTsZuD%2F7nRckJIAv9z5wPEHrPqhFgXYm0%2FJGYfPuWFQdI5BUACLb5oonu8uqkd39S%2Bxup3qdwuGQ34cCZUw4If4mQ%2FGcsyDpsAMZpEfr%2BIU0jUdgm4tmwgHysOrM4NvJd%2FiaqTU4ZolAEJ8LBS%2BflZ2jHAi7vgIlS4IyAMEhWWm789IGpO245s1Dx0SkW7EjN29zslhzt4FK4r4s3SvqW63JxLbwcTeIrtTY7HQY%2Fi8SJFoXtPSzTlj%2F4tkLw4ni647u%2Bfl12FyO7myxGPCXf2StG%2BwUHXPBuXlI7jwoQI3OOF2Vt0HpQqpGwqwTAiDEhsgPaI3x9YS1vsC8W36UO%2FDjzQ8n2AXRJqez5QdmJc%2FXYS1pWM13wwh%2Biu7gU6zwJFtx1g%2BapiBy%2B6%2BbXB%2FVZ3h%2BCbR8O2EUczYS8ZoHghsZCKCZWEJIrZ4uj1wXeA7djpv6y3eVupWb2ePNBj2gHIOJrJfvAQh8Lfdbmzthl6gQcwIxl9%2FPV4HQWizTuy0cknOpAEJhJ0M7EpTdj0RHUdnLqiiYfNQJPYfzbSOkTmnSe7RjZieCHmnfNYV2xxGriOPzqfUXQC0wnl3A3z%2F1LjMXA7Eelk0GQaQ5719DfxzEzyRRpT2p81OzbrFvvVJgcIW1oVoPzyhWRcp3bgAS3%2BK%2BRzHmAp2SZFT%2F6rLqQblAYFfS0XGiX%2BJqbpOKXz8dfHjoF10z4UwsP2HevP6pNYRldr2oB6kePODE0T0fa4ClqFlz2QjX21OuHD2LQAhAFq0MpNVLKRlQImGuYMAkcWe9cy4%2BguoByROwkAoMzX8vQoej4rJYHZF2u9s0ejcw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191113T083802Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2NERCE7J%2F20191113%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=bfa4be55e4cae3ee51a52e47ac4f8cbb1b486a5938e517153c1610a9bc188e1f&hash=7416e4023821b2ee3977ae7a769f7455e87ae525d05eec95d5f691a18a0244cd&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0959652607001849&tid=spdf-8820ea90-1055-42ed-b2e3-83ffd5a6800a&sid=3c5d31cf73f88748099983916bc620b143dbgxrqb&type=client},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@techreport{RN16,
+   author = {Beton, A.  and Dias, D. and Farrant, L. and Gibon, T. and Le Guern, Y.  and Desaxce, M. and Perwueltz, A. and Boufateh, I.},
+   title = {Environmental Improvement Potential of Textiles (IMPRO-Textiles)},
+   institution = {Institute for Prospective Technological Studies (IPTS)},
+   number = {ISBN 978-92-79-34554-8},
+   DOI = {10.2791/52624},
+   year = {2014},
+   type = {Report}
+}
+
+@article{RN11,
+   author = {Conrady, Tobias and Kruschwitz, Anke and Stamminger, Rainer},
+   title = {Influencing the sustainability of washing behavior by using motivational interviewing},
+   journal = {Energy Efficiency},
+   volume = {7},
+   number = {2},
+   pages = {163-178},
+   ISSN = {1570-646X
+1570-6478},
+   DOI = {10.1007/s12053-013-9215-9},
+   url = {<Go to ISI>://WOS:000332789200001},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@techreport{RN17,
+   author = {Ellen MacArthur Foundation},
+   title = {A new textiles economy: Redesigning fashion’s future},
+   url = {http://www.ellenmacarthurfoundation.org/publications},
+   year = {2017},
+   type = {Report}
+}
+
+@article{RN14,
+   author = {Harris, F. and Roby, H. and Dibb, S.},
+   title = {Sustainable clothing: challenges, barriers and interventions for encouraging more sustainable consumer behaviour},
+   journal = {International Journal of Consumer Studies},
+   volume = {40},
+   number = {3},
+   pages = {309-318},
+   ISSN = {1470-6423},
+   DOI = {10.1111/ijcs.12257},
+   url = {<Go to ISI>://WOS:000373907600007},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN1,
+   author = {Hodson, G. and Costello, K.},
+   title = {Interpersonal disgust, ideological orientations, and dehumanization as predictors of intergroup attitudes},
+   journal = {Psychol Sci},
+   volume = {18},
+   number = {8},
+   pages = {691-8},
+   ISSN = {0956-7976 (Print)
+0956-7976 (Linking)},
+   DOI = {10.1111/j.1467-9280.2007.01962.x},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/17680940},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN15,
+   author = {Klint, Erik and Johansson, Lars-Olof and Peters, Gregory},
+   title = {No stain, no pain – A multidisciplinary review of factors underlying domestic laundering},
+   journal = {Energy Research & Social Science},
+   volume = {84},
+   pages = {102442},
+   ISSN = {2214-6296},
+   DOI = {https://doi.org/10.1016/j.erss.2021.102442},
+   url = {https://www.sciencedirect.com/science/article/pii/S2214629621005296},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN22,
+   author = {Klint, Erik and Johansson, Lars-Olof and Peters, Gregory},
+   title = {No stain, no pain – A multidisciplinary review of factors underlying domestic laundering},
+   journal = {Energy Research & Social Science},
+   volume = {84},
+   pages = {102442},
+   ISSN = {2214-6296},
+   DOI = {https://doi.org/10.1016/j.erss.2021.102442},
+   url = {https://www.sciencedirect.com/science/article/pii/S2214629621005296},
+   year = {2022},
+   type = {Journal Article}
+}
+
+@article{RN19,
+   author = {Klint, Erik and Peters, Gregory},
+   title = {Sharing is caring - the importance of capital goods when assessing environmental impacts from private and shared laundry systems in Sweden},
+   journal = {The International Journal of Life Cycle Assessment},
+   volume = {26},
+   number = {6},
+   pages = {1085-1099},
+   ISSN = {1614-7502},
+   DOI = {10.1007/s11367-021-01890-5},
+   url = {https://doi.org/10.1007/s11367-021-01890-5},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN12,
+   author = {Labrecque, Jennifer S. and Wood, Wendy and Neal, David T. and Harrington, Nick},
+   title = {Habit slips: when consumers unintentionally resist new products},
+   journal = {Journal of the Academy of Marketing Science},
+   volume = {45},
+   number = {1},
+   pages = {119-133},
+   ISSN = {0092-0703
+1552-7824},
+   DOI = {10.1007/s11747-016-0482-9},
+   url = {<Go to ISI>://WOS:000392204000009},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN20,
+   author = {Laitala, K. and Klepp, I. G. and Boks, C.},
+   title = {Changing laundry habits in Norway},
+   journal = {Int J Consum Stud},
+   volume = {36},
+   number = {2},
+   pages = {228-237},
+   ISSN = {1470-6423},
+   DOI = {10.1111/j.1470-6431.2011.01081.x},
+   url = {<Go to ISI>://WOS:000300681700014},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN13,
+   author = {McQueen, R. H. and Batcheller, J. C. and Moran, L. J. and Zhang, H. and Hooper, P. M.},
+   title = {Reducing laundering frequency to prolong the life of denim jeans},
+   journal = {International Journal of Consumer Studies},
+   volume = {41},
+   number = {1},
+   pages = {36-45},
+   ISSN = {1470-6423},
+   DOI = {10.1111/ijcs.12311},
+   url = {<Go to ISI>://WOS:000394904200006},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN8,
+   author = {Meintjes, H.},
+   title = {'Washing machines make lazy women' - Domestic appliances and the negotiation of women's propriety in Soweto},
+   journal = {Journal of Material Culture},
+   volume = {6},
+   number = {3},
+   pages = {345-363},
+   ISSN = {1359-1835},
+   DOI = {Doi 10.1177/135918350100600304},
+   url = {<Go to ISI>://WOS:000172578600004},
+   year = {2001},
+   type = {Journal Article}
+}
+
+@article{RN21,
+   author = {Munasinghe, Prabod and Druckman, Angela and Dissanayake, D. G. K.},
+   title = {A systematic review of the life cycle inventory of clothing},
+   journal = {Journal of Cleaner Production},
+   volume = {320},
+   pages = {128852},
+   ISSN = {0959-6526},
+   DOI = {https://doi.org/10.1016/j.jclepro.2021.128852},
+   url = {https://www.sciencedirect.com/science/article/pii/S0959652621030481},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN3,
+   author = {Mylan, J. and Southerton, D.},
+   title = {The Social Ordering of an Everyday Practice: The Case of Laundry},
+   journal = {Sociology},
+   volume = {52},
+   number = {6},
+   pages = {1134-1151},
+   ISSN = {0038-0385
+1469-8684},
+   DOI = {10.1177/0038038517722932},
+   url = {<Go to ISI>://WOS:000453216900002},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN4,
+   author = {Pink, Sarah},
+   title = {Dirty laundry. Everyday practice, sensory engagement and the constitution of identity},
+   journal = {Social Anthropology},
+   volume = {13},
+   number = {03},
+   pages = {275-290},
+   ISSN = {0964-0282
+1469-8676},
+   DOI = {10.1111/j.1469-8676.2005.tb00391.x},
+   url = {https://search.proquest.com/docview/621077344?accountid=11162 http://www.ub.gu.se/dynamiskt/cgi-bin/link_resolver/link_resolver.cgi?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Apsycinfo&atitle=Dirty+laundry.+Everyday+practice%2C+sensory+engagement+and+the+constitution+of+identity&title=Social+Anthropology+%2F+Anthropologie+Sociale&issn=09640282&date=2005-10-01&volume=13&issue=3&spage=275&au=Pink%2C+Sarah&isbn=&jtitle=Social+Anthropology+%2F+Anthropologie+Sociale&btitle=&rft_id=info:eric/2006-01261-001&rft_id=info:doi/10.1017%2FS0964028205001540},
+   year = {2005},
+   type = {Journal Article}
+}
+
+@article{RN2,
+   author = {Reicher, S. D. and Templeton, A. and Neville, F. and Ferrari, L. and Drury, J.},
+   title = {Core disgust is attenuated by ingroup relations},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {113},
+   number = {10},
+   pages = {2631-5},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Print)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.1517027113},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/26903640},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN7,
+   author = {Retamal, M. and Schandl, H.},
+   title = {Dirty Laundry in Manila: Comparing Resource Consumption Practices for Individual and Shared Laundering},
+   journal = {Journal of Industrial Ecology},
+   volume = {22},
+   number = {6},
+   pages = {1389-1401},
+   ISSN = {1088-1980},
+   DOI = {10.1111/jiec.12696},
+   url = {<Go to ISI>://WOS:000447649500010},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@techreport{RN18,
+   author = {Sherrington, C.},
+   title = {Plastics in the marine environment},
+   url = {https://www.eunomia.co.uk/reports-tools/plastics-in-the-marine-environment/},
+   year = {2016},
+   type = {Report}
+}
+
+@article{RN6,
+   author = {Shove, Elizabeth},
+   title = {Converging Conventions of Comfort, Cleanliness and Convenience},
+   journal = {Journal of Consumer Policy},
+   volume = {26},
+   number = {4},
+   pages = {395-418},
+   ISSN = {0168-7034
+1573-0700},
+   DOI = {10.1023/a:1026362829781},
+   url = {https://search.proquest.com/docview/37808224?accountid=11162 http://www.ub.gu.se/dynamiskt/cgi-bin/link_resolver/link_resolver.cgi?url_ver=Z39.88-2004&rft_val_fmt=info:ofi/fmt:kev:mtx:journal&genre=article&sid=ProQ:ProQ%3Aibss&atitle=Converging+conventions+of+comfort%2C+cleanliness+and+convenience&title=Journal+of+consumer+policy&issn=01687034&date=2003-12-01&volume=26&issue=4&spage=395&au=Shove%2C+Elizabeth&isbn=&jtitle=Journal+of+consumer+policy&btitle=&rft_id=info:eric/2759370&rft_id=info:doi/},
+   year = {2003},
+   type = {Journal Article}
+}
+
+@article{RN9,
+   author = {Throne‐Holst, Harald and Strandbakken, Pål and Stø, Eivind},
+   title = {Identification of households' barriers to energy saving solutions},
+   journal = {Management of Environmental Quality: An International Journal},
+   volume = {19},
+   number = {1},
+   pages = {54-66},
+   ISSN = {1477-7835},
+   DOI = {10.1108/14777830810840363},
+   url = {https://www.scopus.com/inward/record.uri?eid=2-s2.0-38149130595&doi=10.1108%2f14777830810840363&partnerID=40&md5=74ea5d6d982086b39b8fc0e3e8d06c3e},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@phdthesis{RN24,
+   author = {Uitdenbogerd, D. E.},
+   title = {Energy and households : the acceptance of energy reduction options in relation to the performance and organisation of household activities = De acceptatie van energie reductieopties in relatie tot de uitvoering en organisatie van huishoudelijke activiteiten},
+   university = {S.n.},
+   url = {https://edepot.wur.nl/121883},
+   year = {2007},
+   type = {Thesis}
+}
+
+@article{RN23,
+   author = {Wiedemann, S. G. and Biggs, L. and Nebel, B. and Bauch, K. and Laitala, K. and Klepp, I. G. and Swan, P. G. and Watson, K.},
+   title = {Environmental impacts associated with the production, use, and end-of-life of a woollen garment},
+   journal = {The International Journal of Life Cycle Assessment},
+   volume = {25},
+   number = {8},
+   pages = {1486-1499},
+   ISSN = {0948-3349
+1614-7502},
+   DOI = {10.1007/s11367-020-01766-0},
+   url = {https://doi.org/10.1007/s11367-020-01766-0},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN5,
+   author = {Worrall, N. and Taylor, V. M. and Ricketts, J. P. and Jones, A. P.},
+   title = {Personal Hygiene Cues in Impression Formation},
+   journal = {Perceptual and Motor Skills},
+   volume = {38},
+   number = {3},
+   pages = {1269-1270},
+   ISSN = {0031-5125},
+   DOI = {DOI 10.2466/pms.1974.38.3c.1269},
+   url = {<Go to ISI>://WOS:A1974T615800057},
+   year = {1974},
+   type = {Journal Article}
+}
+

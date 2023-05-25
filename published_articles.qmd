@@ -1,5 +1,5 @@
 ---
-title: "Published articles"
+title: "Published articles and additional information"
 ---
 
 This list contains links to all the research and articles published within the current Laundry project. Additional information about the publications can be found here: [Chalmers Research](https://research.chalmers.se/person/erisvedb)
@@ -7,5 +7,4 @@ This list contains links to all the research and articles published within the c
 
 
 Klint, E., Peters, G. Sharing is caring - the importance of capital goods when assessing environmental impacts from private and shared laundry systems in Sweden. Int J Life Cycle Assess 26, 1085-1099 (2021). https://doi.org/10.1007/s11367-021-01890-5
-
 
