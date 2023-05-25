@@ -2,3 +2,5 @@
 title: "Published articles"
 ---
 
+This list contains links to all the research and articles published within the current Laundry project. Additional informations about the publications can be found here: [Chalmers Research](https://research.chalmers.se/person/erisvedb)    
+
