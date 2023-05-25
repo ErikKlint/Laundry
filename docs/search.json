@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Erik Klint is a Ph.D. student at the department of Technology Management and Economics at Chalmers University of Technology, Gothenburg. His research concerns environmental emissions from domestic laundering; both from a life cycle perspective as well as with regard to consumer motivations in changed behaviors. This homepage explains the results from his research and provide additional information concerning the subject."
   },
   {
     "objectID": "published_articles.html",
@@ -19,5 +19,12 @@
     "title": "Published articles and additional information",
     "section": "",
     "text": "This list contains links to all the research and articles published within the current Laundry project. Additional information about the publications can be found here: Chalmers Research\nKlint, E., Peters, G. Sharing is caring - the importance of capital goods when assessing environmental impacts from private and shared laundry systems in Sweden. Int J Life Cycle Assess 26, 1085-1099 (2021). https://doi.org/10.1007/s11367-021-01890-5"
+  },
+  {
+    "objectID": "Consumer_motivations.html",
+    "href": "Consumer_motivations.html",
+    "title": "Consumer motivations",
+    "section": "",
+    "text": "As described by Klint, Johansson, and Peters (2022), current research indicate that laundering behaviours are predominantly shaped by three different factors: Social conventions (i.e. culture), individual concerns (e.g. psychological drivers and barriers), and the availability of technological aids (e.g. washing machines or tumble dryers). In turn, these factors also shape one another while at the same time changing over time, see Figure 1.\n\n\n\nFigure 1: Factors influencing domestic laundering, as presented by Klint, Johansson, and Peters (2022)"
   }
 ]

@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-Erik Klint is a Ph.D. student at the department of Technology Management and Economics at Chalmers University of Technology. His research concerns environmental emissions from domestic laundering, both from a life cycle perspective as well as with regard to consumer motivations in changed behaviors. This homepage explains the results from his research and provide additional information concerning the subject. 
+Erik Klint is a Ph.D. student at the department of Technology Management and Economics at Chalmers University of Technology, Gothenburg. His research concerns environmental emissions from domestic laundering; both from a life cycle perspective as well as with regard to consumer motivations in changed behaviors. This homepage explains the results from his research and provide additional information concerning the subject. 
 
 
